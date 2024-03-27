@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\research_project\research_project\bin\research_project.dll.config
+C:\Users\pc\source\repos\research_project\research_project\bin\research_project.dll
+C:\Users\pc\source\repos\research_project\research_project\bin\research_project.pdb
+C:\Users\pc\source\repos\research_project\research_project\obj\Debug\research_project.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\research_project\research_project\obj\Debug\research_project.dll
+C:\Users\pc\source\repos\research_project\research_project\obj\Debug\research_project.pdb
+C:\Users\pc\source\repos\research_project\research_project\obj\Debug\research_project.csproj.AssemblyReference.cache
